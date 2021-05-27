@@ -100,5 +100,7 @@ https://www.researchgate.net/publication/301879126_Advances_in_Very_Deep_Convolu
 #### Authors:
 
 Hemanth A (hemanreddy31@gmail.com)
+
+
 Jyothish k (jyothishkjyothishk038@gmail.com)
 
