@@ -99,11 +99,6 @@ https://www.researchgate.net/publication/301879126_Advances_in_Very_Deep_Convolu
 
 #### Authors:
 
-Krishna Upadhyay (krishnaupadhyay1997@gmail.com)
-
-Sanjay Karki (sonJ9)
-
-Simon Dahal (simonsd054@gmail.com)
-
-Yogesh Rai (ygsh.spcry5@gmail.com)
+Hemanth A (hemanreddy31@gmail.com)
+Jyothish k (jyothishkjyothishk038@gmail.com)
 
